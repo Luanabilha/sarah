@@ -1,0 +1,4 @@
+.cabecalho{background-color: yellowgreen;color: aquamarine;display: flex;justify-content: space-around;}
+cabecalho-lista-item{display: inline-block;justify-content:space-around;font-size: 30px;}
+.cabecalho-imagem{width: 55%;}
+
